@@ -3,7 +3,7 @@ Shoot-A-Mole! is a contemporary take on the popular arcade game *Whac-A-Mole*. I
 
 
 ## Getting Started
-To run the game on your own computer, you can clone this Github repository and sync it with your local machine. 
+To run the game on your own computer, you can clone this Github repository and sync it with your local machine. To play the game, run the `Shoot-A-Mole.py` file.
 
 ### Prerequisites
 
