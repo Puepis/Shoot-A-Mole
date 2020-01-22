@@ -11,7 +11,7 @@ What things you need to install the software and how to install them
 
 ## Built With
 
-* [Pygame](http://www.dropwizard.io/1.0.2/docs/) - The library used to create the game
+* [Pygame](http://www.dropwizard.io/1.0.2/docs/) - The library used to launch the game and create its components
 
 ## Author
 
