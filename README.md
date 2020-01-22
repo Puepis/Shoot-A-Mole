@@ -7,7 +7,7 @@ To run the game on your own computer, you can clone this Github repository and s
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+To launch the game, you will need to have [Python3](https://www.python.org/downloads/) installed on your machine.
 
 ## Built With
 
